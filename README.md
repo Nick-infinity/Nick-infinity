@@ -3,7 +3,7 @@
 👋 &nbsp;Hello, world! <br/> I am Nikhil Gupta
 ======
 
-I'm a passionate and creative software developer from [India](https://www.google.com/maps/place/India/@20.0123533,64.4487244,4z/data=!3m1!4b1!4m5!3m4!1s0x30635ff06b92b791:0xd78c4fa1854213a6!8m2!3d20.593684!4d78.96288) 📌
+I'm a passionate and creative software developer from [India](https://www.google.com/maps/place/India/@20.0123533,64.4487244,4z/data=!3m1!4b1!4m5!3m4!1s0x30635ff06b92b791:0xd78c4fa1854213a6!8m2!3d20.593684!4d78.96288) 🇮🇳
 
 I'm currently an Under-Grad Electronics & Communication student.
 
